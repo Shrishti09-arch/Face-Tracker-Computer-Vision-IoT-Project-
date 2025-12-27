@@ -5,7 +5,8 @@ Face Tracker 🎯
 The Face Tracker is a real-time computer vision and IoT-based project that detects and tracks human faces using a webcam and automatically follows the face movement using servo motors. The system combines Python-based face detection with Arduino-controlled pan and tilt mechanisms to achieve smooth and responsive tracking.
 
 <br/>
-🚀 Features
+
+🚀 Features 
 
 
 Real-time face detection using a webcam
@@ -19,6 +20,7 @@ Python–Arduino synchronization for hardware control
 Efficient and lightweight implementation
 
 <br/>
+
 🛠️ Technologies Used
 
 
@@ -39,6 +41,7 @@ Computer Vision
 IoT
 
 <br/>
+
 ⚙️ How It Works
 
 
@@ -53,6 +56,7 @@ Python sends position data to Arduino using PyFirmata.
 Servo motors adjust their angles to keep the face centered using pan and tilt movement.
 
 <br/>
+
 🔌 Hardware Requirements
 
 
@@ -67,10 +71,10 @@ Breadboard & Jumper Wires
 USB Cable
 
 <br/>
+
 💻 Software Requirements
 
-
-Python 3.x
+Python 3.10
 
 Arduino IDE
 
@@ -80,9 +84,9 @@ CVZone
 
 PyFirmata
 
-<br/>
-▶️ Usage
+<br/> 
 
+▶️ Usage
 
 Upload StandardFirmata to Arduino using Arduino IDE.
 
@@ -93,8 +97,8 @@ Run the Python script.
 Place your face in front of the webcam and observe real-time tracking.
 
 <br/>
-📈 Applications
 
+📈 Applications
 
 Surveillance systems
 
@@ -107,8 +111,8 @@ Human–computer interaction
 Security and monitoring systems
 
 <br/>
-📚 Learning Outcomes
 
+📚 Learning Outcomes
 
 Hands-on experience with computer vision
 
@@ -119,8 +123,8 @@ Real-time data processing
 Servo motor control and automation
 
 <br/>
-👤 Author
 
+👤 Author
 
 Shrishti Vaishnav
           
